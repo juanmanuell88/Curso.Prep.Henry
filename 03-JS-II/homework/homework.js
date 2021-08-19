@@ -173,7 +173,6 @@ function operadoresLogicos(num1, num2, num3) {
   }
 
 }
-operadoresLogicos(1, 0, 10);
 
 function esPrimo(numero) {
   // Devuelve "true" si "numero" es primo
